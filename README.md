@@ -1,1 +1,3 @@
 # SEED-labs-network-security
+
+These labs are part of the network security labs offered by [SEED labs](https://seedsecuritylabs.org/). I completed the ARP spoofing and firewall labs for SEED labs 2.0 using a virtual machine running on ubuntu and virtualbox. Both folders contain my lab reports detailing the process by which I completed each task and accompanying screenshots when necessary. The ARP cache poisoning lab folder also contains the python programs I wrote to accomplish certain tasks. 
